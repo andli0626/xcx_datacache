@@ -1,0 +1,4 @@
+@import "../../common/lib/weui.wxss";
+button{
+  margin-top: 10px;
+}

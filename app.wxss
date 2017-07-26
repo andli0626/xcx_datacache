@@ -1,0 +1,6 @@
+/**app.wxss**/
+
+.container {
+  margin: 10px;
+}
+

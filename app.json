@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/view/view"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarTitleText": "测试"
+  }
+}
